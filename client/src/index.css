@@ -20,3 +20,7 @@ body, p, span, a, li, div {
     font-family: 'Nunito', sans-serif;
 }
 
+.placeholder-color{
+    color: #e0e0e0;
+    font-weight: 300;
+}
