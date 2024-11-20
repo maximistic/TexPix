@@ -10,3 +10,5 @@
     - npx tailwindcss init -p
 
     - npm install react-router-dom
+
+    - npm install motion
