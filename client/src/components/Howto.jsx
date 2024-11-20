@@ -7,7 +7,7 @@ const Howto = () => {
       <h1 className="text-3xl sm:text-4xl font-bold mb-2 text-center">How it works</h1>
       <p className="text-lg text-gray-600 mb-12 text-center">Transform words into stunning images</p>
 
-      <div className="space-y-6 w-full max-w-4xl">
+      <div className="space-y-6 w-full max-w-3xl">
         {stepsData.map((item, index) => (
             <div
                 key={index}
