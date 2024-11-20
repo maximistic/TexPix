@@ -15,6 +15,7 @@ const Hero = () => {
       setShowLogin(true)
     }
   }
+  
   return (
     <motion.div
       className="flex flex-col justify-center items-center text-center my-20 px-4"
